@@ -1,0 +1,25 @@
+
+body { font-family: Arial; color: #F0F8FF; background-color: #00CED1;}
+{border-style: double;}
+
+/* The code below modifies all the content within the <h1> tags */
+body.home{background-image:url(https://c.tenor.com/NAG9_2L3l-sAAAAC/hey-ya-outkast.gif);}
+body.page2{background-image:url(https://c.tenor.com/8liDMZDIrnUAAAAC/dancing-in-the-car-big-boi.gif);}
+body.page3{background-image:url(https://wallpaperaccess.com/full/1268242.jpg);}
+
+
+h4 {font-family: Lucida Console,helvetica; color: #FF69B4;}
+
+
+
+p {border-style: double;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  background-color: #00CED1;}
+
